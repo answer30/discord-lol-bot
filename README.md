@@ -1,5 +1,3 @@
-# discord_bot
-
 <h3 align="center"><b>Discord_bot</b></h3>
 </br>
 <p align="center">
