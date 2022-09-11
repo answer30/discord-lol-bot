@@ -1,1 +1,1 @@
-# discord-lol-bot
+# discord-lol-bo
